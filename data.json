@@ -1,0 +1,66 @@
+[
+  {
+    "policy_id": "leave_policy_001",
+    "category": "Leave Policy",
+    "title": "Annual Leave",
+    "description": "Employees are entitled to 20 days of paid annual leave per calendar year.",
+    "faq": [
+      {
+        "question": "How many days of annual leave do I get?",
+        "answer": "You are entitled to 20 days of paid annual leave per year."
+      },
+      {
+        "question": "Can I carry forward unused annual leave?",
+        "answer": "Up to 5 days of unused annual leave can be carried forward to the next year."
+      }
+    ]
+  },
+  {
+    "policy_id": "work_policy_002",
+    "category": "Work Hours",
+    "title": "Working Hours",
+    "description": "The standard working hours are 9:00 AM to 5:30 PM, Monday to Friday.",
+    "faq": [
+      {
+        "question": "What are the standard working hours?",
+        "answer": "Standard working hours are from 9:00 AM to 5:30 PM, Monday to Friday."
+      },
+      {
+        "question": "Is remote work allowed?",
+        "answer": "Remote work is permitted upon manager approval and depends on your role."
+      }
+    ]
+  },
+  {
+    "policy_id": "benefits_policy_003",
+    "category": "Employee Benefits",
+    "title": "Health Insurance",
+    "description": "All full-time employees are covered under the corporate health insurance plan.",
+    "faq": [
+      {
+        "question": "Am I covered by health insurance?",
+        "answer": "Yes, all full-time employees are enrolled in the company's health insurance plan."
+      },
+      {
+        "question": "Can I add my family to the health insurance?",
+        "answer": "Yes, you can add dependents with additional premium contributions."
+      }
+    ]
+  },
+  {
+    "policy_id": "exit_policy_005",
+    "category": "Exit Policy",
+    "title": "Resignation Process",
+    "description": "Employees must provide at least 30 days’ notice prior to resignation.",
+    "faq": [
+      {
+        "question": "How do I resign?",
+        "answer": "You must submit a written notice to your manager and HR at least 30 days before your intended last working day."
+      },
+      {
+        "question": "Is notice period mandatory?",
+        "answer": "Yes, a minimum 30-day notice period is required unless waived by HR."
+      }
+    ]
+  }
+]
