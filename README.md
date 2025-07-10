@@ -32,7 +32,6 @@ A Question-Answering (QA) system built with RAG (Retrieval-Augmented Generation)
 # 1. Clone the repo
 
 (https://github.com/niskriti1/HRPolicies_rag.git)
-cd resumeQA
 
 # 2. (Optional) Create a virtual environment
 
