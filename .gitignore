@@ -1,0 +1,4 @@
+HRPolicies_rag/venv
+HRPolicies_rag/.env
+HRPolicies_rag/chroma_store
+HRPolicies_rag/__pycache__
